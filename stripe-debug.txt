@@ -1,0 +1,24 @@
+PRODUCT_RESP={
+  "id": "prod_UGM3W3jcH1pDb5",
+  "object": "product",
+  "active": true,
+  "attributes": [],
+  "created": 1775152082,
+  "default_price": null,
+  "description": null,
+  "images": [],
+  "livemode": false,
+  "marketing_features": [],
+  "metadata": {},
+  "name": "Level 2 EV Charger Installation",
+  "package_dimensions": null,
+  "shippable": null,
+  "statement_descriptor": null,
+  "tax_code": null,
+  "tax_details": null,
+  "type": "service",
+  "unit_label": null,
+  "updated": 1775152082,
+  "url": null
+}
+
