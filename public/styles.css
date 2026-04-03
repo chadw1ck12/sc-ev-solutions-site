@@ -530,3 +530,16 @@ footer {
   .section-head { align-items: start; }
   h1 { max-width: 100%; }
 }
+
+
+.location-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+.location-card { padding: 1.1rem; }
+.location-card h3 { margin: 0 0 .45rem; }
+.location-links { display: grid; gap: .7rem; margin-top: 1rem; }
+.location-links a { color: #bfeaff; font-weight: 700; }
+.breadcrumbs { color: var(--muted); font-size: .95rem; margin-bottom: 1rem; }
+@media (max-width: 1024px) { .location-grid { grid-template-columns: 1fr; } }
